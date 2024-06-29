@@ -11,7 +11,7 @@ if (!isset($_SESSION['loggedin'])) {
     <title>Управление пользователями</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="js/scripr.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
     <div class="container">
